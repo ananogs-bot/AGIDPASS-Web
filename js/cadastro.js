@@ -81,7 +81,7 @@ form.addEventListener("submit", async (e) => {
     }
 
     alert("Cadastro realizado com sucesso!");
-    window.location.href = "login.html";
+    window.location.href = "index.html";
 
   } catch (error) {
     console.error(error);
