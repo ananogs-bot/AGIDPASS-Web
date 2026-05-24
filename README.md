@@ -91,11 +91,11 @@ O projeto está alinhado aos seguintes ODS da ONU:
 
 ## 📸 Demonstração
 
-```md
-![Home](assets/home.png)
-![Catálogo](assets/catalogo.png)
-![Perfil](assets/perfil.png)
-```
+<img width="1902" height="913" alt="home web" src="https://github.com/user-attachments/assets/4d57967f-1b50-4b66-a085-470714d294d9" />
+
+<img width="1906" height="915" alt="cadastro web" src="https://github.com/user-attachments/assets/8265d3d7-6a36-4b17-afb6-45e19b4eb2aa" />
+
+<img width="1902" height="912" alt="chatbot web" src="https://github.com/user-attachments/assets/90d1eacf-d796-4bc1-90d2-e8ed4d25181b" />
 
 ---
 
